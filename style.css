@@ -59,6 +59,9 @@ button{
   border: 1px solid orange;  
 }
 #operator{
-  color: #6dee0a;
-  border: 1px solid green;  
+  color: black;
+  border: 1px solid  black;  
+  background-color: #a8aeb6;
 }
+
+
